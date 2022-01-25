@@ -1,0 +1,367 @@
+.container{
+    display:flex;
+    width:100%;
+}
+.text-1{
+    position: absolute;
+    width: 582px;
+    height: 97px;
+    left: 61px;
+    top: 215px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 51px;
+    color: #000000;
+    }
+.text-2{
+    position: absolute;
+    width: 582px;
+    height: 97px;
+    left: 61px;
+    top: 263px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 51px;
+    color: #008b27;
+}
+.text-3{
+    position: absolute;
+    width: 585px;
+    height: 279px;
+    left: 58px;
+    top: 315px;
+    gap:50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #838383;
+    } 
+.text-4{
+position: absolute;
+width: 370px;
+height: 42px;
+left: 58px;
+top: 620px;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 46px;
+color: #000000;
+}
+.bckground{
+position: absolute;
+width: 724px;
+height: 1072px;
+left: 716px;
+top: 0px;
+background: #C1FFD3;
+}
+.item-1{
+position: absolute;
+width: 98px;
+height: 41px;
+left: 788px;
+top: 23px;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 36px;
+color: #000000;
+}
+.item-2{
+position: absolute;
+width: 118px;
+height: 37px;
+left: 910px;
+top: 23px;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 36px;
+color: #000000;
+}
+.item-3{
+position: absolute;
+width: 146px;
+height: 30px;
+left: 1094px;
+top: 23px;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 36px;
+color: #000000;
+}
+.item-4{
+position: absolute;
+width: 114px;
+height: 37px;
+left: 1282px;
+top: 23px;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 36px;
+color: #000000;
+}
+.iconsimg{
+position: absolute;
+width: 246px;
+height: 205px;
+left: 58px;
+top: 943px;
+}
+
+.btn-1{
+position: absolute;
+width: 132px;
+height: 50px;
+left: 199px;
+top: 520px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 42px;
+color: #FFFFFF;
+position: absolute;
+width: 120px;
+height: 42px;
+left: 160px;
+top: 520px;
+background: #3FDF6C;
+border-radius: 15px;
+}
+.btn-2{
+position: absolute;
+width: 120px;
+height: 42px;
+left: 473px;
+top: 520px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 42px;
+color: #FFFFFF;
+background: #3FDF6C;
+border-radius: 15px;
+}
+.myimg{
+position: absolute;
+width: 750px;
+height: 1072px;
+left: 755px;
+top: 150px;
+}
+.myfullimg{
+position: absolute;
+width: 449px;
+height: 671px;
+left: 68px;
+top: 104px;
+border-radius: 30px;
+}
+.text-21{
+position: absolute;
+width: 696px;
+height: 125px;
+left: 713px;
+top: 1582px;
+font-style: normal;
+font-weight: normal;
+font-size: 42px;
+line-height: 51px;
+color: #3FDF6C;
+}
+.splus{
+position: absolute;
+width: 143px;
+height: 163px;
+left: 648px;
+top: 1782px;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 87px;
+color: #008B27;
+}
+.yoe{
+position: absolute;
+width: 231px;
+height: 75px;
+left: 778px;
+top: 1785px;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+color: #838383;
+}
+.nplus{
+position: absolute;
+width: 105px;
+height: 111px;
+left: 1029px;
+top: 1784px;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 87px;
+color: #008B27;
+}
+.cprojects{
+position: absolute;
+width: 204px;
+height: 79px;
+left: 1140px;
+top: 1800px;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 36px;
+color: #838383;
+}
+.git{
+position: absolute;
+font-size:28px;
+width: 313px;
+height: 72px;
+left: 858px;
+top: 1950px;
+color:white;
+background: #3FDF6C;
+border-radius: 30px;
+}
+.ms{
+position: absolute;
+width: 209px;
+height: 78px;
+left: 622px;
+top: 2129px;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 36px;
+color: #000000;
+}
+.card{
+position: absolute;
+width: 1213px;
+height: 469px;
+left: 114px;
+top: 2341px;
+background: #FFFFFF;
+box-shadow: 3px 5px 25px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+}
+.card-1{
+position: absolute;
+width: 337px;
+height: 113px;
+left: 133px;
+top: 175px;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 36px;
+color: #008B27;
+}
+.card-2{
+position: absolute;
+width: 282px;
+height: 105px;
+left: 500px;
+top: 175px;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 36px;
+color: #008B27;
+}
+.card-3{
+position: absolute;
+width: 352px;
+height: 156px;
+left: 900px;
+top: 175px;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 36px;
+color: #008B27;
+}
+.contactme{
+position: absolute;
+width: 285px;
+height: 64px;
+left: 603px;
+top: 3010px;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 36px;
+color: #000000;
+}
+.name{
+position: absolute;
+width: 237px;
+height: 43px;
+left: 103px;
+top: 3142px;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+}
+.email{
+position: absolute;
+width: 357px;
+height: 53px;
+left: 113px;
+top: 3295px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+}
+.subject{
+position: absolute;
+width: 247px;
+height: 50px;
+left: 113px;
+top: 3481px;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+}
+.message{
+position: absolute;
+width: 250px;
+height: 49px;
+left: 108px;
+top: 3657px;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+}
+.send-btn{
+color:white;
+position: absolute;
+width: 194px;
+height: 72px;
+left: 113px;
+top: 3983px;
+font-size:28px;
+background: #008B27;
+box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+}
