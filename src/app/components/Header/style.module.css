@@ -1,0 +1,71 @@
+.me{
+    position: absolute;
+    right:80px;
+    top:80px;
+
+}
+
+.greeting{
+    font-family: "Poppins";
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 170px;
+}
+
+.subgreeting{
+    font-family: "Poppins";
+    font-size: 20px;
+    padding-left: 135px;
+}
+
+.funfact{
+    font-family: "Poppins";
+    font-size: 14px;
+    padding-left: 100px;
+    padding-top:130px;
+}
+
+.funfact2{
+    font-family: "Poppins";
+    font-size: 14px;
+    padding-left: 140px;
+}
+
+.piccaption{
+    font-family: "Poppins";
+    font-size: 14px;
+    position:absolute;
+    right:155px;
+
+}
+
+ 
+.animatedtext {
+    animation: slide-in 3s ease ; /* Animation name, duration, timing function, iteration count */
+}
+
+@keyframes slide-in {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+.animatedtext2{
+    animation: move-in 3s ease;
+  }
+  
+  @keyframes move-in {
+    0%{
+      transform:translateX(-100%);
+      opacity:0;
+    }
+    100%{
+      transform:translateX(0);
+      opacity:1;
+    }
+  }
+  

@@ -1,0 +1,18 @@
+.heading{
+    font-family: "Poppins";
+    font-size: 50px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding:60px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.email{
+    text-align: center;
+    font-family: "Poppins";
+    padding-bottom: 200px;
+}

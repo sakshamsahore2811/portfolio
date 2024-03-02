@@ -1,0 +1,48 @@
+.heading{
+    font-family: "Poppins";
+    font-size: 50px;
+    text-align: center;
+    padding-top:120px;
+    padding-bottom:40px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding:30px;
+}
+
+.title{
+    font-weight: 500;
+    display:flex;
+    justify-content: space-between;
+    padding:30px;
+    font-family: "Poppins";
+}
+.subtitle{
+    display:flex;
+    justify-content: space-between;
+    font-family: "Poppins";
+    font-size: 12px;
+    padding:10px;
+    
+}
+
+
+
+
+.hoverimg {
+    width: 200px; /* Adjust the size of the container as needed */
+    height: auto;
+    transition: transform 0.3s ease-in-out; /* Add smooth transition */
+  }
+  
+  .hoverimg img {
+    width: 100%; /* Make the image fill the container */
+    height: auto;
+  }
+  
+  .hoverimg:hover {
+    transform: scale(1.6); /* Increase size on hover */
+  }
+  

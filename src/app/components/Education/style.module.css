@@ -1,0 +1,20 @@
+.heading{
+    padding-top: 50px;
+    font-family: "Poppins";
+    text-align: center;
+    font-size: 50px;
+}
+
+.edu{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding: 50px;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Poppins";
+    padding-left:60px;
+    padding-right: 60px;
+}
