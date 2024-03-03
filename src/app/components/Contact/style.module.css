@@ -2,14 +2,16 @@
     font-family: "Poppins";
     font-size: 50px;
     text-align: center;
+    padding-top: 100px;
 }
 
 .container{
     display: flex;
     justify-content: space-between;
     padding:60px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: "Poppins";
 }
 .email{
     text-align: center;
